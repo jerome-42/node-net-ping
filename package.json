@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "raw-socket": "*"
+    "raw-socket": "https://github.com/jerome-42/node-raw-socket.git"
   },
   "contributors": [ 
     {
